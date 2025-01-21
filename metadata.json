@@ -2,6 +2,7 @@
     "name": "Piton Coin",
     "symbol": "PITON",
     "description": "Piton Coin - supporting bolting around the world.",
-    "image": "https://github.com/rockcat/PitonCoinSolana/blob/db936870c5366fc3ebf3e8a5cccb370de1787748/pitoncoin1000px.png",
+    "image": "https://raw.githubusercontent.com/rockcat/PitonCoinSolana/db936870c5366fc3ebf3e8a5cccb370de1787748/pitoncoin1000px.png",
     "uri": "https://pitoncoin.org"
 }
+
